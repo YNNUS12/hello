@@ -4,4 +4,5 @@
 第四行数据
 创建了dev分支
 dev分支准备提交到远程的master分支
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
+
