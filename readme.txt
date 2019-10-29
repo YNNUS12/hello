@@ -6,7 +6,7 @@
 dev分支准备提交到远程的master分支
 <<<<<<< HEAD
 Creating a new branch is quick AND simple.
-master
-dev
+master2
+dev2
 
 
